@@ -1,6 +1,7 @@
 {
-	"author": "Jayshree Aishwarya",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jayshree Aishwarya",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
