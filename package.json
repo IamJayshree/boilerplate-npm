@@ -1,2 +1,21 @@
-
-	"author": "Jayshree Aishwarya",
+{
+  "name": "fcc-learn-npm-package-json",
+  "author": "Jayshree Aishwarya",
+  "description": "A project that does something awesome",
+  "keywords": [ "freecodecamp", "lalaland", "Barney"],
+  "license": "fcc",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
+}
